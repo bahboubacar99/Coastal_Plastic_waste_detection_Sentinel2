@@ -1,4 +1,4 @@
-# Coastal_Plastic_waste_d-tection
+# Coastal Plastic waste detection by Sentinel-2
 In this project, we will detect plastic waste on the coastline of Jamestown in Accra, Ghana, using Sentinel-2 images. The S-2 images used in this project have been corrected for surface reflectance using the ACOLITE atmospheric correction model. In addition to the S-2 bands, we have spectral indices as well as bands obtained by spectral unmixing with the reference reflectances of our classes of interest. Roughly twenty variables were used in this project to train a Random Forest model, namely: coastal, blue, green, red, redE1, redE2, redE3, NIR, NIR_A, MIR_1, MIR_2, NDVI (Normalised Difference Vegetation Index), KNDVI (Kernel Normalised Difference Vegetation Index), PI (Plastic Index), NIR_prime, FDI (Floating Debris Index), plastics_bottles_abundance, fish_net_abundance, blue_bags_abundance, water_abundance, HDPE_abundance, wooden_abundance.
 
 # Database construction
