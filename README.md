@@ -33,3 +33,7 @@ conda install -c conda-forge \
   r-shapr \
   r-jpeg
 ```
+Vous pouvez cloner ce projet avec la ligne de code suivante
+````
+````
+**Before executing, please change the absolute path of dir_base**.
