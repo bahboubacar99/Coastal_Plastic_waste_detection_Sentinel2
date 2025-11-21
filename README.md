@@ -36,6 +36,6 @@ conda install -c conda-forge \
 # Clone projet
 Vous pouvez cloner ce projet avec la ligne de code suivante
 ```
-https://github.com/bahboubacar99/Coastal_Plastic_waste_d-tection.git
+git clone https://github.com/bahboubacar99/Coastal_Plastic_waste_detection_Sentinel2.git
 ```
 **Before executing, please change the absolute path of dir_base**.
