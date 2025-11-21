@@ -33,7 +33,9 @@ conda install -c conda-forge \
   r-shapr \
   r-jpeg
 ```
+# Clone projet
 Vous pouvez cloner ce projet avec la ligne de code suivante
-````
-````
+```
+https://github.com/bahboubacar99/Coastal_Plastic_waste_d-tection.git
+```
 **Before executing, please change the absolute path of dir_base**.
