@@ -34,8 +34,11 @@ conda install -c conda-forge \
   r-jpeg
 ```
 # Clone projet
-Vous pouvez cloner ce projet avec la ligne de code suivante
+You can clone this project with the following line of code
+```
+git lfs install 
+```
 ```
 git clone https://github.com/bahboubacar99/Coastal_Plastic_waste_detection_Sentinel2.git
 ```
-**Before executing, please change the absolute path of dir_base**.
+**Before executing, change the absolute path of dir_base replace it by the obsolute path to the ipynb file localy**.
